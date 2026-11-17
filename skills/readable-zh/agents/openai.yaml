@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文清楚表达"
+  short_description: "改善中文解释、文章和技术回答中的空话与理解断点，保留事实与作者声音"
+  default_prompt: "使用 $readable-zh 修改下面的中文，让目标读者更好理解，同时保留原意和必要解释。"

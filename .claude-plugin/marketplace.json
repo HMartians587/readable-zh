@@ -1,0 +1,14 @@
+{
+  "name": "readable-zh",
+  "owner": {
+    "name": "HMartians587"
+  },
+  "plugins": [
+    {
+      "name": "readable-zh",
+      "source": "./",
+      "description": "保住意思，把中文说顺。"
+    }
+  ],
+  "description": "中文写作与表达优化技能"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "readable-zh",
+  "version": "0.7.0",
+  "description": "中文表达优化：保留原意，改善绕句、重复和模板化表达。",
+  "author": {
+    "name": "HMartians587",
+    "url": "https://github.com/HMartians587"
+  },
+  "homepage": "https://github.com/HMartians587/readable-zh",
+  "repository": "https://github.com/HMartians587/readable-zh",
+  "license": "MIT",
+  "keywords": [
+    "chinese",
+    "writing",
+    "readability",
+    "agent-skills"
+  ]
+}
