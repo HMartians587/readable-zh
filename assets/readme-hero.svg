@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="300" viewBox="0 0 1080 300" role="img" aria-labelledby="title desc">
+  <title id="title">Readable ZH：让 AI 少绕两句。</title>
+  <desc id="desc">中文表达优化 Skill。保住意思，把话说顺。</desc>
+  <defs><clipPath id="rounded-card"><rect x="1" y="1" width="1078" height="298" rx="24"/></clipPath></defs>
+  <rect x="1" y="1" width="1078" height="298" rx="24" fill="#f6f4ed" stroke="#e4e0d4" stroke-width="2"/>
+  <g clip-path="url(#rounded-card)">
+  <path d="M782 1h273a24 24 0 0 1 24 24v250a24 24 0 0 1-24 24H782z" fill="#e7eee8"/>
+  <circle cx="994" cy="58" r="132" fill="#dce8dc"/>
+  <circle cx="846" cy="305" r="116" fill="#d5e2d7"/>
+  </g>
+  <g font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif">
+    <rect x="48" y="35" width="194" height="31" rx="15.5" fill="#183d38"/>
+    <text x="145" y="56" text-anchor="middle" font-size="14" font-weight="600" fill="#ffffff" letter-spacing="1">中文表达优化 SKILL</text>
+    <text x="48" y="151" font-size="59" font-weight="700" fill="#153b35">让 AI 少绕两句。</text>
+    <text x="50" y="204" font-size="26" fill="#53675c">保住意思，把话说顺。</text>
+    <text x="50" y="261" font-size="15" fill="#647169" letter-spacing="2">READABLE ZH</text>
+    <text x="1014" y="267" text-anchor="end" font-size="14" fill="#53675c">v0.7.0</text>
+  </g>
+  <g transform="translate(827 65) rotate(-5 92 80)">
+    <rect x="0" y="0" width="190" height="151" rx="14" fill="#fffefa" stroke="#a9bdb0" stroke-width="2"/>
+    <path d="M26 35h134M26 55h119M26 75h136M26 95h93M26 115h119" fill="none" stroke="#b8c4b9" stroke-width="7" stroke-linecap="round"/>
+    <path d="M26 55h77M26 95h56" fill="none" stroke="#e5b85c" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(956 170)">
+    <circle cx="0" cy="0" r="29" fill="#eac46b" stroke="#fffefa" stroke-width="5"/>
+    <path d="m-11 0 7 7 15-16" fill="none" stroke="#214a3c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
